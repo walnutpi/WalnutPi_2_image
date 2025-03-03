@@ -1,1 +1,1 @@
-# WalnutPi_2_image
+# WalnutPi 2 image
